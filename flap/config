@@ -1,0 +1,13 @@
+[Settings]
+fps = 60
+screen_width = 800
+screen_height = 800
+name = murzyn
+ground_scroll = 1
+scroll_speed = 6
+flying = False
+game_over = False
+pipe_gap = 200
+pipe_freq = 1500
+score = 0
+pass_pipe = False
